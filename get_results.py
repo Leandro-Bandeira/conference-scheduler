@@ -3,17 +3,19 @@ import os
 import re
 import json
 import csv
-import time # Import time for a small delay between retries
+import time
 
-executable = "heuristic"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.abspath(os.path.join(script_dir, ".."))
+
+executable = os.path.join(repo_root, "heuristic")
 COUNT_EXEC = 10
-MAX_RETRIES = 20  # Maximum number of times to retry a single execution
 
-base_folder = "instances_enic"
-#subfolders = [f"enic{year}" for year in range(14, 19)]  # enic14 até enic18
-subfolders = ["enic17"]
-csv_output = "resultados.csv"
-results_base_folder = "results"
+base_folder = os.path.join(repo_root, "instances_enic")
+subfolders = [f"enic{year}" for year in range(14, 19)]  # enic14 até enic18
+#subfolders = ["enic14"]
+csv_output = os.path.join(script_dir, "resultados.csv")
+results_base_folder = os.path.join(script_dir, "results")
 
 # Criar pasta base de resultados, se necessário
 os.makedirs(results_base_folder, exist_ok=True)
@@ -64,11 +66,12 @@ with open(csv_output, mode="w", newline='') as csvfile:
                     log_file.write(f"\nExecução #{i+1}...\n")
                     log_file.flush()
                     
-                    # --- Início da Lógica de Retry ---
-                    success = False
-                    for attempt in range(MAX_RETRIES):
-                        log_file.write(f"  Tentativa {attempt+1} de {MAX_RETRIES}...\n")
+                    tentativa = 0
+                    while True:
+                        tentativa += 1
+                        log_file.write(f"  Tentativa {tentativa}...\n")
                         log_file.flush()
+
                         try:
                             output_json_path = os.path.join(instance_result_folder, f"output_{i}.json")
                             
@@ -78,10 +81,10 @@ with open(csv_output, mode="w", newline='') as csvfile:
 
                             # 1. Rodar o executável
                             result = subprocess.run(
-                                ["./" + executable, instance_path, output_json_path, dictionary_path],
+                                [executable, instance_path, output_json_path, dictionary_path],
                                 capture_output=True,
                                 text=True,
-                                timeout=300 # Adicionar um timeout (ex: 5 minutos) para evitar travamento
+                                timeout=300
                             )
 
                             output = result.stdout
@@ -90,9 +93,9 @@ with open(csv_output, mode="w", newline='') as csvfile:
 
                             # 2. Verificar o código de retorno
                             if result.returncode != 0:
-                                log_file.write(f"A execução do processo falhou com código de retorno: {result.returncode}\n")
+                                log_file.write(f"Erro: O processo falhou com código de retorno: {result.returncode}\n")
                                 log_file.flush()
-                                time.sleep(1) # Esperar um pouco antes de tentar novamente
+                                time.sleep(1)
                                 continue
 
                             # 3. Tentar carregar o JSON e verificar se está vazio/inválido
@@ -100,7 +103,11 @@ with open(csv_output, mode="w", newline='') as csvfile:
                                 data_result = json.load(result_file)
                                 
                             # Se o JSON carregar com sucesso, a execução é considerada válida
-                            success = True
+                            saltos.append(data_result.get('numSaltos', 0))
+                            extras.append(data_result.get('numExtraProfs', 0))
+                            sessoes.append(data_result.get('numUsedSessions', 0))
+                            log_file.write(f"Sucesso. Saltos: {saltos[-1]}, Extras: {extras[-1]}, Sessoes: {sessoes[-1]}\n")
+                            log_file.flush()
                             
                             # Capturar num_papers apenas na primeira execução bem-sucedida
                             if num_papers is None:
@@ -109,47 +116,25 @@ with open(csv_output, mode="w", newline='') as csvfile:
                                     num_papers = int(match.group(1))
                                     log_file.write(f"Número de papers: {num_papers}\n")
                                     log_file.flush()
-                                    
-                            # Se tudo deu certo, saímos do loop de retry
+
                             break
 
                         except subprocess.TimeoutExpired:
-                            log_file.write(f"Erro: O processo excedeu o tempo limite de execução ({300}s).\n")
+                            log_file.write("Erro: O processo excedeu o tempo limite de execução (300s).\n")
                             log_file.flush()
                             time.sleep(1)
-                            continue
                         except FileNotFoundError:
                             log_file.write(f"Erro: O arquivo de saída JSON não foi criado/encontrado: {output_json_path}\n")
                             log_file.flush()
                             time.sleep(1)
-                            continue
                         except json.JSONDecodeError:
                             log_file.write(f"Erro: O arquivo JSON está vazio ou inválido: {output_json_path}\n")
                             log_file.flush()
                             time.sleep(1)
-                            continue
                         except Exception as e:
                             log_file.write(f"Erro inesperado durante a execução/leitura do JSON: {e}\n")
                             log_file.flush()
                             time.sleep(1)
-                            continue
-                    
-                    # --- Fim da Lógica de Retry ---
-
-                    # Se a execução foi bem-sucedida após as retries, registre os resultados
-                    if success:
-                        saltos.append(data_result.get('numSaltos', 0))
-                        extras.append(data_result.get('numExtraProfs', 0))
-                        sessoes.append(data_result.get('numUsedSessions', 0))
-                        log_file.write(f"Sucesso. Saltos: {saltos[-1]}, Extras: {extras[-1]}, Sessoes: {sessoes[-1]}\n")
-                        log_file.flush()
-                    else:
-                        log_file.write(f"Falha persistente após {MAX_RETRIES} tentativas. Registro de 0 para esta execução.\n")
-                        log_file.flush()
-                        # Em caso de falha persistente, registre 0 ou N/A. Aqui estou registrando 0 para não interromper a média
-                        saltos.append(0)
-                        extras.append(0)
-                        sessoes.append(0)
 
                 # Calcular médias
                 mean_saltos = sum(saltos) / len(saltos) if saltos else 0
