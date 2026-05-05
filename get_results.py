@@ -12,11 +12,23 @@ executable = os.path.join(repo_root, "heuristic")
 COUNT_EXEC = 10
 
 base_folder = os.path.join(repo_root, "instances_enic")
-subfolders = [f"enic{year}" for year in range(14, 19)]  # enic14 até enic18
+subfolders = [f"enic{year}" for year in range(17, 19)]  # enic14 até enic18
 #subfolders = ["enic14"]
 csv_output = os.path.join(script_dir, "resultados.csv")
 results_base_folder = os.path.join(script_dir, "results")
 
+instances_name = {
+    '17': {
+        'instance_campusCCA_dia9',
+        'instance_campusCCAE_dia26',
+        'instance_campusCCEN_dia25',
+        'instance_campusCCJ_dia23',
+        'instance_campusCCS_dia24',
+        'instance_campusCCTA_dia25',
+        'instance_campusCT_dia27',
+        'instance_campusCTDR_dia26'
+    }
+}
 # Criar pasta base de resultados, se necessário
 os.makedirs(results_base_folder, exist_ok=True)
 
@@ -34,11 +46,17 @@ with open(csv_output, mode="w", newline='') as csvfile:
         print(f"\n=== Procurando em: {instance_folder} ===")
 
         instance_files = sorted([f for f in os.listdir(instance_folder) if f.startswith("instance_")])
-        print(instance_files)
+        year_key = subfolder.replace("enic", "")
+        allowed_instances = instances_name.get(year_key, None)
+        print(allowed_instances)
         for instance in instance_files:
             #if instance != 'instance_campusCCHSA_dia8.txt':
             #    continue
             #print(instance)
+            instance_base = instance.replace(".txt", "")
+            if allowed_instances is not None and instance_base not in allowed_instances:
+                print(f"Pulando {instance}: não está na lista de instâncias permitidas")
+                continue
             dictionary = instance.replace("instance_", "dictionary_")
             instance_path = os.path.join(instance_folder, instance)
             dictionary_path = os.path.join(instance_folder, dictionary)
@@ -51,8 +69,14 @@ with open(csv_output, mode="w", newline='') as csvfile:
             instance_result_folder = os.path.join(results_base_folder, subfolder, instance.replace(".txt", ""))
             os.makedirs(instance_result_folder, exist_ok=True)
 
-            # Abrir arquivo de log para essa instância
+            # Pular se já existe resultado para a instância
             log_path = os.path.join(instance_result_folder, "log.txt")
+            output_probe_path = os.path.join(instance_result_folder, "output_0.json")
+            if os.path.exists(log_path) or os.path.exists(output_probe_path):
+                print(f"Pulando {instance}: resultado já existe em {instance_result_folder}")
+                continue
+
+            # Abrir arquivo de log para essa instância
             with open(log_path, "w", buffering=1) as log_file:
                 log_file.write(f"=== Rodando para {instance_path} e {dictionary_path} ===\n")
                 log_file.flush()
