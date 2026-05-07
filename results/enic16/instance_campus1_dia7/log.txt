@@ -1,0 +1,2982 @@
+=== Rodando para /imports/leandrobandeira/Documents/opt/ENIC/cse/heuristica/instances_enic/enic16/instance_campus1_dia7.txt e /imports/leandrobandeira/Documents/opt/ENIC/cse/heuristica/instances_enic/enic16/dictionary_campus1_dia7.txt ===
+
+Execução #1...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575622
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575027
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575379
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575078
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575636
+bestIteratonSolution: 2575636
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574926
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575723
+bestIteratonSolution: 2575723
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575615
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575749
+bestIteratonSolution: 2575749
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574837
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575852
+bestIteratonSolution: 2575852
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575542
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575294
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574818
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575332
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574421
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575723
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576507
+bestIteratonSolution: 2576507
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574954
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575633
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575017
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575294
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575645
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575361
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575542
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574751
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576218
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575630
+tempo de geraçao de solução inicial: 0.00157803
+tempo de busca local: 6.85708
+tempo de perturbação: 0.0255581
+tempo de checador: 0.154885
+bestSolution: 2576507
+CBC solving...
+CBC viable
+bestSolution feasible: 2576507
+0: 222882, papers: 7 27 28 29 30 31 32 33 34 35 37 38 49 
+cluster professors: 9
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 212230, papers: 36 39 40 41 42 43 44 45 46 47 48 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 310581, papers: 54 55 56 57 58 67 68 69 92 93 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 401802, papers: 50 51 52 53 59 60 61 62 63 64 65 66 78 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 511800, papers: 0 1 2 3 4 5 6 8 22 23 24 25 26 
+cluster professors: 7
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.3988
+ILS result: 2576507
+>>> Total: 2576507
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+Número de papers: 94
+
+Execução #2...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575024
+bestIteratonSolution: 2575024
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576051
+bestIteratonSolution: 2576051
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575570
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575578
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574718
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576575
+bestIteratonSolution: 2576575
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575892
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575647
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575542
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575551
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575697
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575650
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575012
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575050
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575649
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574884
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575258
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576034
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576581
+bestIteratonSolution: 2576581
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575230
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575732
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575354
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576482
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576507
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575035
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574265
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575648
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575546
+tempo de geraçao de solução inicial: 0.00159165
+tempo de busca local: 7.85337
+tempo de perturbação: 0.0288762
+tempo de checador: 0.156785
+bestSolution: 2576581
+CBC solving...
+CBC viable
+bestSolution feasible: 2576581
+0: 222870, papers: 27 28 29 30 31 32 33 34 35 37 38 49 
+cluster professors: 8
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 312252, papers: 36 39 40 41 42 43 44 45 46 47 48 92 93 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 411405, papers: 22 23 24 25 26 54 55 56 57 58 67 68 69 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 401802, papers: 50 51 52 53 59 60 61 62 63 64 65 66 78 
+cluster professors: 9
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 311040, papers: 0 1 2 3 4 5 6 7 8 
+cluster professors: 5
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 5.7118
+ILS result: 2576581
+>>> Total: 2576581
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+Execução #3...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575767
+bestIteratonSolution: 2575767
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575524
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575720
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575759
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575386
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575879
+bestIteratonSolution: 2575879
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575089
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574774
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574820
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574820
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575789
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575371
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575411
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575422
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575613
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574571
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575712
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575384
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575001
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575474
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576144
+bestIteratonSolution: 2576144
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576293
+bestIteratonSolution: 2576293
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576101
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574423
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576144
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575647
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575186
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575146
+tempo de geraçao de solução inicial: 0.00159296
+tempo de busca local: 7.37952
+tempo de perturbação: 0.0274422
+tempo de checador: 0.155799
+bestSolution: 2576293
+CBC solving...
+CBC viable
+bestSolution feasible: 2576293
+0: 322230, papers: 27 28 29 30 31 32 33 34 35 49 92 93 
+cluster professors: 7
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 212730, papers: 36 37 38 39 40 41 42 43 44 45 46 47 48 
+cluster professors: 10
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 310983, papers: 7 50 51 52 53 54 55 56 57 58 65 66 78 
+cluster professors: 9
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 301338, papers: 59 60 61 62 63 64 67 68 69 
+cluster professors: 6
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 511800, papers: 0 1 2 3 4 5 6 8 22 23 24 25 26 
+cluster professors: 7
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.90051
+ILS result: 2576293
+>>> Total: 2576293
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+Execução #4...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575638
+bestIteratonSolution: 2575638
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575825
+bestIteratonSolution: 2575825
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575697
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576297
+bestIteratonSolution: 2576297
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575192
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574988
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574907
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574653
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575650
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575507
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575628
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575646
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575294
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574818
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575224
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575382
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576401
+bestIteratonSolution: 2576401
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575769
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575689
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576077
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575213
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575735
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575798
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576149
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574801
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575709
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575632
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575646
+tempo de geraçao de solução inicial: 0.00157741
+tempo de busca local: 8.19038
+tempo de perturbação: 0.0301376
+tempo de checador: 0.156501
+bestSolution: 2576401
+CBC solving...
+CBC viable
+bestSolution feasible: 2576401
+0: 222882, papers: 27 28 29 30 31 32 33 34 35 37 38 49 78 
+cluster professors: 9
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 301320, papers: 22 23 24 25 26 39 40 41 42 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 411540, papers: 36 43 44 45 46 47 48 52 53 65 66 92 93 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 312360, papers: 50 51 54 55 56 57 58 59 60 61 62 63 64 
+cluster professors: 9
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 411087, papers: 0 1 2 3 4 5 6 7 8 67 68 69 
+cluster professors: 7
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 8.68542
+ILS result: 2576401
+>>> Total: 2576401
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+Execução #5...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575879
+bestIteratonSolution: 2575879
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575990
+bestIteratonSolution: 2575990
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575777
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575417
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574251
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575186
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575768
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575001
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575242
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575794
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575577
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575392
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576513
+bestIteratonSolution: 2576513
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575546
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574976
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575468
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576498
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575866
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575377
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575471
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575621
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574262
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574568
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575924
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574905
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576145
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575649
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575204
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575330
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575422
+tempo de geraçao de solução inicial: 0.00163852
+tempo de busca local: 7.19638
+tempo de perturbação: 0.0269572
+tempo de checador: 0.157796
+bestSolution: 2576513
+CBC solving...
+CBC viable
+bestSolution feasible: 2576513
+0: 222882, papers: 7 27 28 29 30 31 32 33 34 35 37 38 49 
+cluster professors: 9
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 312252, papers: 36 39 40 41 42 43 44 45 46 47 48 92 93 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 210565, papers: 54 55 56 57 58 67 68 69 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 401802, papers: 50 51 52 53 59 60 61 62 63 64 65 66 78 
+cluster professors: 9
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 511800, papers: 0 1 2 3 4 5 6 8 22 23 24 25 26 
+cluster professors: 7
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.28677
+ILS result: 2576513
+>>> Total: 2576513
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+Execução #6...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575384
+bestIteratonSolution: 2575384
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575054
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575314
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575631
+bestIteratonSolution: 2575631
+CBC solving...
+CBC viable
+bestSolution feasible: 2575636
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575588
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575294
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575420
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574450
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575753
+bestIteratonSolution: 2575753
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575283
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575798
+bestIteratonSolution: 2575798
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575542
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575542
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575186
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575610
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576089
+bestIteratonSolution: 2576089
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575546
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575294
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575503
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575001
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575657
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575649
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575512
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575650
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575173
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575632
+tempo de geraçao de solução inicial: 0.00158822
+tempo de busca local: 7.38873
+tempo de perturbação: 0.0272523
+tempo de checador: 0.161626
+bestSolution: 2576089
+CBC solving...
+CBC viable
+bestSolution feasible: 2576089
+0: 412197, papers: 22 23 24 25 26 27 28 29 31 32 34 49 78 
+cluster professors: 8
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 122790, papers: 30 33 35 36 37 38 43 44 45 46 47 48 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 310960, papers: 50 51 52 53 54 55 56 57 58 65 66 
+cluster professors: 7
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 401874, papers: 39 40 41 42 59 60 61 62 63 64 67 68 69 
+cluster professors: 9
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 401076, papers: 70 71 72 73 74 75 76 77 92 93 
+cluster professors: 6
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 311040, papers: 0 1 2 3 4 5 6 7 8 
+cluster professors: 5
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 5.01686
+ILS result: 2576089
+>>> Total: 2576089
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+Execução #7...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576413
+bestIteratonSolution: 2576413
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575348
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575276
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575849
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576247
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575948
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575276
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575632
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574808
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575865
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575384
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575948
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575941
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575024
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576569
+bestIteratonSolution: 2576569
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575800
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575965
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575167
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575648
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575540
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575246
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575164
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575768
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574401
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575649
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575781
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576065
+tempo de geraçao de solução inicial: 0.00157858
+tempo de busca local: 8.04112
+tempo de perturbação: 0.0298043
+tempo de checador: 0.159442
+bestSolution: 2576569
+CBC solving...
+CBC viable
+bestSolution feasible: 2576569
+0: 322890, papers: 27 28 29 30 31 32 34 35 39 40 41 42 49 
+cluster professors: 8
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 112230, papers: 33 36 37 38 43 44 45 46 47 48 
+cluster professors: 8
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 411405, papers: 22 23 24 25 26 54 55 56 57 58 67 68 69 
+cluster professors: 8
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 401790, papers: 50 51 52 53 59 60 61 62 63 64 65 66 
+cluster professors: 8
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 311040, papers: 0 1 2 3 4 5 6 7 8 
+cluster professors: 5
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 100002, papers: 78 92 93 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1041 
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 1
+tempo de escalonamento: 6.88951
+ILS result: 2576569
+>>> Total: 2576569
+
+Sucesso. Saltos: 0, Extras: 1, Sessoes: 9
+
+Execução #8...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575420
+bestIteratonSolution: 2575420
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576397
+bestIteratonSolution: 2576397
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576461
+bestIteratonSolution: 2576461
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575237
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574731
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575540
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575702
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575112
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574568
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575630
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575521
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575003
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576089
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574535
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575384
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575674
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575384
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576549
+bestIteratonSolution: 2576549
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575971
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575650
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575832
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575630
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574655
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575456
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575726
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575648
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575674
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575733
+tempo de geraçao de solução inicial: 0.00158414
+tempo de busca local: 7.40469
+tempo de perturbação: 0.0274644
+tempo de checador: 0.15657
+bestSolution: 2576549
+CBC solving...
+CBC viable
+bestSolution feasible: 2576549
+0: 222870, papers: 27 28 29 30 31 32 33 34 35 37 38 49 
+cluster professors: 8
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 212230, papers: 36 39 40 41 42 43 44 45 46 47 48 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 411375, papers: 22 23 24 25 26 54 55 56 57 58 92 93 
+cluster professors: 7
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 401802, papers: 50 51 52 53 59 60 61 62 63 64 65 66 78 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 311040, papers: 0 1 2 3 4 5 6 7 8 
+cluster professors: 5
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 100020, papers: 67 68 69 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1041 
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 1
+tempo de escalonamento: 5.26952
+ILS result: 2576549
+>>> Total: 2576549
+
+Sucesso. Saltos: 0, Extras: 1, Sessoes: 9
+
+Execução #9...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2574184
+bestIteratonSolution: 2574184
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2574985
+bestIteratonSolution: 2574985
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575296
+bestIteratonSolution: 2575296
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575282
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575630
+bestIteratonSolution: 2575630
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575302
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576576
+bestIteratonSolution: 2576576
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576055
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575647
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576524
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575626
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574749
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575380
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575785
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574994
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575923
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575726
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575272
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576553
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576576
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576413
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574316
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575106
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575649
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574898
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575649
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574898
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575546
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575546
+tempo de geraçao de solução inicial: 0.00154122
+tempo de busca local: 8.53594
+tempo de perturbação: 0.0315855
+tempo de checador: 0.157847
+bestSolution: 2576576
+CBC solving...
+CBC viable
+bestSolution feasible: 2576576
+0: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 222870, papers: 27 28 29 30 31 32 33 34 35 37 38 49 
+cluster professors: 8
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 212230, papers: 36 39 40 41 42 43 44 45 46 47 48 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 411375, papers: 22 23 24 25 26 54 55 56 57 58 92 93 
+cluster professors: 7
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 401790, papers: 50 51 52 53 59 60 61 62 63 64 65 66 
+cluster professors: 8
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 301060, papers: 70 71 72 73 74 75 76 77 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 411099, papers: 0 1 2 3 4 5 6 7 8 67 68 69 78 
+cluster professors: 8
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.78332
+ILS result: 2576576
+>>> Total: 2576576
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+Execução #10...
+  Tentativa 1...
+Papers: 94
+Topics: 35
+Sessions: 10
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 130
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2575622
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 2576593
+bestIteratonSolution: 2576593
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575584
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575048
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575551
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575546
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574820
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575879
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576305
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575381
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575630
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575650
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576214
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576161
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574412
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575636
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575800
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575699
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575024
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575276
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575681
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575476
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575696
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2574976
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575933
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576325
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2576161
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575622
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575694
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 2575689
+tempo de geraçao de solução inicial: 0.00152253
+tempo de busca local: 8.6659
+tempo de perturbação: 0.0316575
+tempo de checador: 0.157766
+bestSolution: 2576593
+CBC solving...
+CBC viable
+bestSolution feasible: 2576593
+0: 222870, papers: 27 28 29 30 31 32 33 34 35 37 38 49 
+cluster professors: 8
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 403242, papers: 9 10 11 12 13 14 15 16 17 18 19 20 21 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 312252, papers: 36 39 40 41 42 43 44 45 46 47 48 92 93 
+cluster professors: 9
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 110530, papers: 54 55 56 57 58 
+cluster professors: 3
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 401802, papers: 50 51 52 53 59 60 61 62 63 64 65 66 78 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 501900, papers: 22 23 24 25 26 70 71 72 73 74 75 76 77 
+cluster professors: 8
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 212910, papers: 79 80 81 82 83 84 85 86 87 88 89 90 91 
+cluster professors: 10
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 411087, papers: 0 1 2 3 4 5 6 7 8 67 68 69 
+cluster professors: 7
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 9.58052
+ILS result: 2576593
+>>> Total: 2576593
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 8
+
+=== Resultado médio ===
+Salto médio: 0.0
+Extra médio: 0.2
+Sessões médias: 8.2
+Número de papers: 94

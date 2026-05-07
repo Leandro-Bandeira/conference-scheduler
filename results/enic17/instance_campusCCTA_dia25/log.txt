@@ -1,0 +1,13027 @@
+=== Rodando para /imports/leandrobandeira/Documents/opt/ENIC/cse/heuristica/instances_enic/enic17/instance_campusCCTA_dia25.txt e /imports/leandrobandeira/Documents/opt/ENIC/cse/heuristica/instances_enic/enic17/dictionary_campusCCTA_dia25.txt ===
+
+Execução #1...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11876988
+bestIteratonSolution: 11876988
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872340
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11878048
+bestIteratonSolution: 11878048
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872062
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11867675
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11878735
+bestIteratonSolution: 11878735
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878036
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11869786
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877572
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877190
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874372
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877750
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872036
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881088
+bestIteratonSolution: 11881088
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879718
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879872
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875420
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872614
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877383
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877604
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881244
+bestIteratonSolution: 11881244
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877562
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876220
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874218
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871252
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873132
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875606
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876671
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874592
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873105
+tempo de geraçao de solução inicial: 0.00613982
+tempo de busca local: 107.226
+tempo de perturbação: 0.14932
+tempo de checador: 0.771185
+bestSolution: 11881244
+CBC solving...
+CBC viable
+bestSolution feasible: 11881244
+0: 1102740, papers: 0 24 25 26 27 33 34 35 36 43 44 45 46 
+cluster professors: 6
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 400935, papers: 103 104 105 106 107 108 109 158 159 160 161 162 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 901686, papers: 16 17 29 30 31 32 83 84 85 86 87 90 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 601782, papers: 174 179 180 181 182 183 184 185 186 187 188 193 195 
+cluster professors: 8
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 1031856, papers: 10 11 15 39 40 41 42 89 94 95 96 97 98 
+cluster professors: 5
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 1400640, papers: 3 4 5 6 19 20 21 22 23 189 190 191 192 
+cluster professors: 5
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 906900, papers: 18 37 38 47 48 53 54 55 62 63 64 69 70 
+cluster professors: 6
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 400242, papers: 12 13 14 49 50 60 61 
+cluster professors: 4
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 210072, papers: 99 100 101 102 163 164 165 
+cluster professors: 4
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 802191, papers: 71 72 73 74 75 76 77 79 80 81 82 196 
+cluster professors: 6
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 100500, papers: 58 59 68 78 
+cluster professors: 3
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 110004, papers: 51 52 92 93 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1100 
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 1
+15: 311060, papers: 88 125 126 129 134 135 138 139 148 149 
+cluster professors: 6
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 200040, papers: 111 112 123 124 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 12 
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 1
+17: 807000, papers: 136 137 140 141 142 143 144 145 146 147 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 0
+18: 682770, papers: 1 2 7 8 9 28 56 57 65 66 67 91 
+cluster professors: 5
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.76104
+ILS result: 11881244
+>>> Total: 11881244
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 19
+Número de papers: 201
+
+Execução #2...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11874572
+bestIteratonSolution: 11874572
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11879746
+bestIteratonSolution: 11879746
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877212
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876147
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874814
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875504
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874396
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875653
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870085
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871006
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871128
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877292
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874068
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874977
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877321
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870747
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873620
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870004
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870428
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871912
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881652
+bestIteratonSolution: 11881652
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875053
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879493
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873403
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877014
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873349
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872912
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871018
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875384
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872524
+tempo de geraçao de solução inicial: 0.00612758
+tempo de busca local: 104.636
+tempo de perturbação: 0.146562
+tempo de checador: 0.820774
+bestSolution: 11881652
+CBC solving...
+CBC viable
+bestSolution feasible: 11881652
+0: 300540, papers: 103 104 105 106 107 108 109 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 210072, papers: 99 100 101 102 163 164 165 
+cluster professors: 4
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 511337, papers: 58 59 62 63 64 68 78 88 125 126 129 148 149 
+cluster professors: 8
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 480294, papers: 1 2 7 8 9 91 136 137 138 139 
+cluster professors: 4
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 1087134, papers: 168 169 170 171 172 173 174 176 177 178 193 194 195 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 1601340, papers: 12 13 14 16 17 19 20 21 22 29 30 31 32 
+cluster professors: 4
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 411390, papers: 166 167 175 179 180 181 182 183 184 
+cluster professors: 5
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 902760, papers: 158 159 160 161 162 185 186 187 188 189 190 191 192 
+cluster professors: 7
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 802191, papers: 71 72 73 74 75 76 77 79 80 81 82 196 
+cluster professors: 6
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 501144, papers: 49 50 61 83 84 85 86 87 90 111 112 123 124 
+cluster professors: 8
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 1031856, papers: 10 11 15 39 40 41 42 89 94 95 96 97 98 
+cluster professors: 5
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 807000, papers: 134 135 140 141 142 143 144 145 146 147 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 612222, papers: 3 4 5 6 23 28 56 57 65 66 67 92 93 
+cluster professors: 7
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 705912, papers: 18 37 38 47 48 51 52 53 54 55 60 69 70 
+cluster professors: 7
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 1102740, papers: 0 24 25 26 27 33 34 35 36 43 44 45 46 
+cluster professors: 6
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.14226
+ILS result: 11881652
+>>> Total: 11881652
+
+Sucesso. Saltos: 0, Extras: 0, Sessoes: 17
+
+Execução #3...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11870090
+bestIteratonSolution: 11870090
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11877473
+bestIteratonSolution: 11877473
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874450
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876312
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873378
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876984
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874294
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877257
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876639
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870938
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11877650
+bestIteratonSolution: 11877650
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871368
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877213
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877310
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875765
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871842
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876076
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874208
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11877821
+bestIteratonSolution: 11877821
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872160
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877324
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11879480
+bestIteratonSolution: 11879480
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873547
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870740
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878751
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11879555
+bestIteratonSolution: 11879555
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874295
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874897
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874596
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871874
+tempo de geraçao de solução inicial: 0.00639429
+tempo de busca local: 114.57
+tempo de perturbação: 0.158004
+tempo de checador: 0.86491
+bestSolution: 11879555
+CBC solving...
+CBC viable
+bestSolution feasible: 11879555
+0: 300000, papers: 62 63 64 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 335 1041 
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 2
+1: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 1402440, papers: 0 29 30 31 32 33 34 35 36 43 44 45 46 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 606000, papers: 134 135 136 137 140 141 142 143 144 145 146 147 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 500256, papers: 24 25 26 49 50 60 61 111 112 
+cluster professors: 5
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 705900, papers: 18 37 38 47 48 51 52 53 54 55 69 70 
+cluster professors: 6
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 611256, papers: 16 17 28 56 57 65 66 67 92 93 138 139 
+cluster professors: 6
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 300540, papers: 103 104 105 106 107 108 109 
+cluster professors: 4
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 501174, papers: 160 161 174 179 180 181 182 183 184 
+cluster professors: 5
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 802860, papers: 158 159 162 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 8
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 802203, papers: 71 72 73 74 75 76 77 79 80 81 82 163 196 
+cluster professors: 7
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 1031856, papers: 10 11 15 39 40 41 42 89 94 95 96 97 98 
+cluster professors: 5
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 1101660, papers: 3 4 5 6 12 13 14 19 20 21 22 23 27 
+cluster professors: 6
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 410980, papers: 88 125 126 129 148 149 198 199 200 
+cluster professors: 5
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 301374, papers: 58 59 68 78 83 84 85 86 87 90 
+cluster professors: 7
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+17: 280230, papers: 1 2 7 8 9 91 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1125 
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 1
+18: 109960, papers: 123 124 164 165 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 953 
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 1
+19: 200040, papers: 99 100 101 102 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 249 
+sucess
+Cluster index: 20
+FO professors model: 0
+Extra professors needed: 1
+tempo de escalonamento: 6.40812
+ILS result: 11879555
+>>> Total: 11879555
+
+Sucesso. Saltos: 0, Extras: 5, Sessoes: 20
+
+Execução #4...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11871119
+bestIteratonSolution: 11871119
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11878541
+bestIteratonSolution: 11878541
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874535
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876302
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872919
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877270
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875224
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11879055
+bestIteratonSolution: 11879055
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871767
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875593
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873097
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11809413
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875494
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878124
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11866100
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874238
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875435
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870129
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876983
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878342
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871224
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877103
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871140
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873723
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876195
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873745
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870727
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873864
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876665
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873752
+tempo de geraçao de solução inicial: 0.00630325
+tempo de busca local: 96.003
+tempo de perturbação: 0.139324
+tempo de checador: 0.857082
+bestSolution: 11879055
+CBC solving...
+CBC viable
+bestSolution feasible: 11879055
+0: 832056, papers: 10 11 15 39 40 41 42 58 59 68 78 89 98 
+cluster professors: 6
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 706020, papers: 0 18 37 38 47 48 51 52 53 54 55 69 70 
+cluster professors: 7
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 405420, papers: 130 131 132 133 138 139 150 151 152 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 311420, papers: 88 125 126 129 136 137 144 145 148 149 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 1202262, papers: 24 25 26 33 34 35 36 43 44 45 46 123 124 
+cluster professors: 5
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 401160, papers: 174 179 180 181 182 183 184 
+cluster professors: 4
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 902460, papers: 160 161 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 6
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 1101660, papers: 3 4 5 6 12 13 14 19 20 21 22 23 27 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 100230, papers: 49 50 60 61 
+cluster professors: 3
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 200850, papers: 83 84 85 86 87 90 
+cluster professors: 4
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 805020, papers: 134 135 140 141 142 143 146 147 153 154 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 710416, papers: 62 63 64 92 93 94 95 96 97 111 112 
+cluster professors: 5
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 10020, papers: 163 164 165 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 528 
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 1
+15: 300861, papers: 103 104 105 106 107 108 109 158 159 162 
+cluster professors: 7
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 100002, papers: 100 102 196 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1057 
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 1
+17: 700800, papers: 16 17 29 30 31 32 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1055 
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 1
+18: 902202, papers: 71 72 73 74 75 76 77 79 80 81 82 99 101 
+cluster professors: 6
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+19: 682770, papers: 1 2 7 8 9 28 56 57 65 66 67 91 
+cluster professors: 5
+sucess
+Cluster index: 20
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.14871
+ILS result: 11879055
+>>> Total: 11879055
+
+Sucesso. Saltos: 0, Extras: 3, Sessoes: 20
+
+Execução #5...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11878336
+bestIteratonSolution: 11878336
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874534
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873284
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874385
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872696
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11879854
+bestIteratonSolution: 11879854
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874854
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876394
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875608
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876182
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879401
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881088
+bestIteratonSolution: 11881088
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874357
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876205
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877493
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874346
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874870
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872708
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877775
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875417
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870974
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875235
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872040
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873222
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872001
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877179
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879094
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875129
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876398
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870515
+tempo de geraçao de solução inicial: 0.00635177
+tempo de busca local: 102.167
+tempo de perturbação: 0.142633
+tempo de checador: 0.965868
+bestSolution: 11881088
+CBC solving...
+CBC viable
+bestSolution feasible: 11881088
+0: 1402440, papers: 0 29 30 31 32 33 34 35 36 43 44 45 46 
+cluster professors: 5
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 705900, papers: 18 37 38 47 48 51 52 53 54 55 69 70 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 880707, papers: 1 2 7 8 9 62 63 64 91 198 199 200 
+cluster professors: 4
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 300861, papers: 103 104 105 106 107 108 109 158 159 162 
+cluster professors: 7
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 301374, papers: 58 59 68 78 83 84 85 86 87 90 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 501020, papers: 99 101 174 179 180 181 182 183 184 
+cluster professors: 5
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 310380, papers: 92 93 94 95 96 97 
+cluster professors: 3
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 902460, papers: 160 161 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 6
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 1003020, papers: 12 13 14 24 25 26 27 28 56 57 65 66 67 
+cluster professors: 6
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 902202, papers: 71 72 73 74 75 76 77 79 80 81 82 100 102 
+cluster professors: 6
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 600000, papers: 19 20 21 22 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 446 1100 
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 2
+14: 411725, papers: 3 4 5 6 23 88 125 126 129 138 139 148 149 
+cluster professors: 8
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 831880, papers: 10 11 15 16 17 39 40 41 42 89 98 
+cluster professors: 4
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 10023, papers: 163 164 165 196 
+cluster professors: 3
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+17: 200040, papers: 111 112 123 124 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 13 
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 1
+18: 606000, papers: 134 135 136 137 140 141 142 143 144 145 146 147 
+cluster professors: 6
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+19: 100230, papers: 49 50 60 61 
+cluster professors: 3
+sucess
+Cluster index: 20
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 5.82172
+ILS result: 11881088
+>>> Total: 11881088
+
+Sucesso. Saltos: 0, Extras: 3, Sessoes: 20
+
+Execução #6...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11872805
+bestIteratonSolution: 11872805
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11880306
+bestIteratonSolution: 11880306
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872822
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876864
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878996
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876180
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876110
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874047
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876136
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874337
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11880243
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878508
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877607
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873835
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873658
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876599
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875572
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872160
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878327
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876242
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878206
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879665
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877349
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877869
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874496
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876135
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873075
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872609
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876730
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872811
+tempo de geraçao de solução inicial: 0.0063647
+tempo de busca local: 103.58
+tempo de perturbação: 0.144181
+tempo de checador: 0.813353
+bestSolution: 11880306
+CBC solving...
+CBC viable
+bestSolution feasible: 11880306
+0: 601986, papers: 28 56 57 65 66 67 83 84 85 86 87 90 
+cluster professors: 7
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 200040, papers: 111 112 123 124 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1063 
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 1
+3: 702028, papers: 12 13 14 24 25 26 27 58 59 68 78 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 301035, papers: 103 104 105 106 107 108 109 158 159 162 193 195 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 600000, papers: 19 20 21 22 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 255 1055 
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 2
+6: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 401160, papers: 174 179 180 181 182 183 184 
+cluster professors: 4
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 1081600, papers: 1 2 7 8 9 185 186 187 188 189 190 191 192 
+cluster professors: 4
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 932100, papers: 5 6 10 11 15 16 17 39 40 41 42 89 98 
+cluster professors: 5
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 311131, papers: 49 50 61 88 125 126 129 136 137 148 149 
+cluster professors: 7
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 99980, papers: 160 161 196 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 5 
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 1
+13: 210072, papers: 99 100 101 102 163 164 165 
+cluster professors: 4
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 100002, papers: 60 138 139 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1035 
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 1
+15: 710706, papers: 3 4 23 62 63 64 92 93 94 95 96 97 
+cluster professors: 6
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 807000, papers: 134 135 140 141 142 143 144 145 146 147 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+17: 802180, papers: 71 72 73 74 75 76 77 79 80 81 82 
+cluster professors: 5
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 0
+18: 706020, papers: 0 18 37 38 47 48 51 52 53 54 55 69 70 
+cluster professors: 7
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+19: 1402440, papers: 29 30 31 32 33 34 35 36 43 44 45 46 91 
+cluster professors: 5
+sucess
+Cluster index: 20
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 7.99406
+ILS result: 11880306
+>>> Total: 11880306
+
+Sucesso. Saltos: 0, Extras: 5, Sessoes: 20
+
+Execução #7...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11875116
+bestIteratonSolution: 11875116
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11875554
+bestIteratonSolution: 11875554
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875441
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873548
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11876254
+bestIteratonSolution: 11876254
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11879592
+bestIteratonSolution: 11879592
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870251
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870356
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875401
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875578
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873392
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870104
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881090
+bestIteratonSolution: 11881090
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877261
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878055
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872955
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872181
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879120
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873127
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874542
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876895
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871336
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875726
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878092
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878656
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877483
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871670
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878515
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870819
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877666
+tempo de geraçao de solução inicial: 0.00623584
+tempo de busca local: 98.5056
+tempo de perturbação: 0.136858
+tempo de checador: 0.83649
+bestSolution: 11881090
+CBC solving...
+CBC viable
+bestSolution feasible: 11881090
+0: 1402440, papers: 0 29 30 31 32 33 34 35 36 43 44 45 46 
+cluster professors: 5
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 200850, papers: 83 84 85 86 87 90 
+cluster professors: 4
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 807000, papers: 134 135 136 137 142 143 144 145 146 147 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 906900, papers: 18 37 38 47 48 51 52 53 54 55 62 63 64 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 311060, papers: 88 125 126 129 138 139 148 149 150 151 
+cluster professors: 6
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 600000, papers: 19 20 21 22 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 257 516 
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 2
+6: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 401160, papers: 174 179 180 181 182 183 184 
+cluster professors: 4
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 902460, papers: 160 161 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 6
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 610674, papers: 49 50 61 92 93 94 95 96 97 111 112 123 124 
+cluster professors: 7
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 200800, papers: 3 4 5 6 23 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 802191, papers: 71 72 73 74 75 76 77 79 80 81 82 196 
+cluster professors: 6
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 210072, papers: 99 100 101 102 163 164 165 
+cluster professors: 4
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 480700, papers: 1 2 7 8 9 16 17 60 69 70 91 
+cluster professors: 5
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 1003020, papers: 12 13 14 24 25 26 27 28 56 57 65 66 67 
+cluster professors: 6
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 300861, papers: 103 104 105 106 107 108 109 158 159 162 
+cluster professors: 7
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+17: 832056, papers: 10 11 15 39 40 41 42 58 59 68 78 89 98 
+cluster professors: 6
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 0
+18: 405420, papers: 130 131 132 133 140 141 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 6.04097
+ILS result: 11881090
+>>> Total: 11881090
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 19
+
+Execução #8...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11875017
+bestIteratonSolution: 11875017
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11877140
+bestIteratonSolution: 11877140
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872720
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874449
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11878989
+bestIteratonSolution: 11878989
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881794
+bestIteratonSolution: 11881794
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11880136
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878916
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874648
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874683
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870977
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870190
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876434
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871400
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874758
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875345
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11882285
+bestIteratonSolution: 11882285
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878123
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873987
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873806
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875712
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873424
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875991
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872378
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872029
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870772
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873406
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873737
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878676
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874772
+tempo de geraçao de solução inicial: 0.00615384
+tempo de busca local: 95.8756
+tempo de perturbação: 0.133375
+tempo de checador: 0.726949
+bestSolution: 11882285
+CBC solving...
+CBC viable
+bestSolution feasible: 11882285
+0: 807000, papers: 134 135 136 137 140 141 142 143 144 145 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 931956, papers: 10 11 15 39 40 41 42 83 84 86 87 89 98 
+cluster professors: 5
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 311060, papers: 88 125 126 129 138 139 148 149 150 151 
+cluster professors: 6
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 1001124, papers: 16 17 29 30 31 32 94 95 96 97 
+cluster professors: 4
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 405420, papers: 130 131 132 133 146 147 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 501174, papers: 160 161 174 179 180 181 182 183 184 
+cluster professors: 5
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 802860, papers: 158 159 162 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 8
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 600000, papers: 19 20 21 22 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 515 1063 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 2
+10: 802191, papers: 71 72 73 74 75 76 77 79 80 81 82 196 
+cluster professors: 6
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 802770, papers: 3 4 5 6 12 13 14 23 24 25 26 27 91 
+cluster professors: 7
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 100500, papers: 58 59 68 78 
+cluster professors: 3
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 310332, papers: 49 50 60 61 85 90 92 93 111 112 123 124 
+cluster professors: 8
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 782880, papers: 1 2 7 8 9 28 37 38 56 57 65 66 67 
+cluster professors: 5
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 210072, papers: 99 100 101 102 163 164 165 
+cluster professors: 4
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 300540, papers: 103 104 105 106 107 108 109 
+cluster professors: 4
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+17: 906900, papers: 18 47 48 51 52 53 54 55 62 63 64 69 70 
+cluster professors: 6
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 0
+18: 802080, papers: 0 33 34 35 36 43 44 45 46 
+cluster professors: 4
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 5.86509
+ILS result: 11882285
+>>> Total: 11882285
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 19
+
+Execução #9...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11875471
+bestIteratonSolution: 11875471
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11875547
+bestIteratonSolution: 11875547
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11877953
+bestIteratonSolution: 11877953
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877063
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874421
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11869602
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874166
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873741
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11880747
+bestIteratonSolution: 11880747
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875793
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873756
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872932
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11865641
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874351
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873905
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873562
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874467
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878109
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878983
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879710
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874469
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873970
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873372
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876256
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876311
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870896
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11880265
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878308
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873754
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873438
+tempo de geraçao de solução inicial: 0.00627894
+tempo de busca local: 100.62
+tempo de perturbação: 0.138079
+tempo de checador: 0.974674
+bestSolution: 11880747
+CBC solving...
+CBC viable
+bestSolution feasible: 11880747
+0: 831880, papers: 10 11 15 16 17 39 40 41 42 89 98 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 1402440, papers: 0 29 30 31 32 33 34 35 36 43 44 45 46 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 601986, papers: 28 56 57 65 66 67 83 84 85 86 87 90 
+cluster professors: 7
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 311068, papers: 3 4 5 6 23 49 50 60 61 92 93 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 606000, papers: 134 135 136 137 140 141 142 143 144 145 146 147 
+cluster professors: 6
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 300861, papers: 103 104 105 106 107 108 109 158 159 162 
+cluster professors: 7
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 401160, papers: 174 179 180 181 182 183 184 
+cluster professors: 4
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 900012, papers: 19 20 21 22 198 199 200 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 257 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 1
+10: 400512, papers: 53 54 55 58 59 68 78 
+cluster professors: 4
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 902460, papers: 160 161 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 6
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 902202, papers: 71 72 73 74 75 76 77 79 80 81 82 99 101 
+cluster professors: 6
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 0
+13: 882150, papers: 1 2 7 8 9 12 13 14 24 25 26 27 91 
+cluster professors: 5
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 705900, papers: 18 37 38 47 48 51 52 62 63 64 69 70 
+cluster professors: 6
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 100002, papers: 100 102 196 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 509 
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 1
+17: 10020, papers: 163 164 165 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 213 
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 1
+18: 300300, papers: 94 95 96 97 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1147 
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 1
+19: 410968, papers: 88 111 112 123 124 125 126 129 138 139 148 149 
+cluster professors: 7
+sucess
+Cluster index: 20
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 5.75865
+ILS result: 11880747
+>>> Total: 11880747
+
+Sucesso. Saltos: 0, Extras: 4, Sessoes: 20
+
+Execução #10...
+  Tentativa 1...
+Papers: 201
+Topics: 61
+Sessions: 22
+{id: 2, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 20, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 18, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 0, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 12, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 16, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 14, numPapers: 13, presTime: 20, dateTime: 25/11/2016 8:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 21, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 19, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 17, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 15, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 13, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 25/11/2016 14:0}
+Num Slots: 286
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11878627
+bestIteratonSolution: 11878627
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872262
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877406
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870968
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872551
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877696
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875216
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871757
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876932
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874723
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11819523
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881133
+bestIteratonSolution: 11881133
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871795
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877428
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestSolution feasible: 11881338
+bestIteratonSolution: 11881338
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870486
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11874433
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11872711
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11877453
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876140
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11875684
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11878840
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870944
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11811968
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873668
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11879373
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11870727
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11871724
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11876016
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+Infeasible
+CBC solving...
+CBC viable
+bestIteratonSolution: 11873736
+tempo de geraçao de solução inicial: 0.00622497
+tempo de busca local: 96.4578
+tempo de perturbação: 0.134839
+tempo de checador: 0.91321
+bestSolution: 11881338
+CBC solving...
+CBC viable
+bestSolution feasible: 11881338
+0: 300861, papers: 103 104 105 106 107 108 109 158 159 162 
+cluster professors: 7
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 802000, papers: 33 34 35 36 43 44 45 46 
+cluster professors: 3
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 802191, papers: 71 72 73 74 75 76 77 79 80 81 82 196 
+cluster professors: 6
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 200040, papers: 111 112 123 124 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1041 
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 1
+4: 406320, papers: 110 113 114 115 116 117 118 119 120 121 122 127 128 
+cluster professors: 9
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 407400, papers: 130 131 132 133 150 151 152 153 154 155 156 157 197 
+cluster professors: 9
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 1097106, papers: 166 167 168 169 170 171 172 173 175 176 177 178 194 
+cluster professors: 4
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 401160, papers: 174 179 180 181 182 183 184 
+cluster professors: 4
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 1031856, papers: 10 11 15 39 40 41 42 89 94 95 96 97 98 
+cluster professors: 5
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 100002, papers: 47 48 60 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1052 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 1
+10: 902460, papers: 160 161 185 186 187 188 189 190 191 192 193 195 
+cluster professors: 6
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 802770, papers: 0 3 4 5 6 12 13 14 23 24 25 26 27 
+cluster professors: 7
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+12: 100200, papers: 49 50 61 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 1063 
+sucess
+Cluster index: 13
+FO professors model: 0
+Extra professors needed: 1
+13: 906900, papers: 18 37 38 51 52 53 54 55 62 63 64 69 70 
+cluster professors: 6
+sucess
+Cluster index: 14
+FO professors model: 0
+Extra professors needed: 0
+14: 481116, papers: 1 2 7 8 9 83 84 85 86 87 90 91 
+cluster professors: 6
+sucess
+Cluster index: 15
+FO professors model: 0
+Extra professors needed: 0
+15: 210072, papers: 99 100 101 102 163 164 165 
+cluster professors: 4
+sucess
+Cluster index: 16
+FO professors model: 0
+Extra professors needed: 0
+16: 511644, papers: 28 56 57 58 59 65 66 67 68 78 92 93 
+cluster professors: 7
+sucess
+Cluster index: 17
+FO professors model: 0
+Extra professors needed: 0
+17: 600000, papers: 19 20 21 22 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 515 858 
+sucess
+Cluster index: 18
+FO professors model: 0
+Extra professors needed: 2
+18: 311420, papers: 88 125 126 129 136 137 146 147 148 149 
+cluster professors: 6
+sucess
+Cluster index: 19
+FO professors model: 0
+Extra professors needed: 0
+19: 805020, papers: 134 135 138 139 140 141 142 143 144 145 198 199 200 
+cluster professors: 6
+sucess
+Cluster index: 20
+FO professors model: 0
+Extra professors needed: 0
+20: 700800, papers: 16 17 29 30 31 32 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 304 
+sucess
+Cluster index: 21
+FO professors model: 0
+Extra professors needed: 1
+tempo de escalonamento: 5.6581
+ILS result: 11881338
+>>> Total: 11881338
+
+Sucesso. Saltos: 0, Extras: 6, Sessoes: 21
+
+=== Resultado médio ===
+Salto médio: 0.0
+Extra médio: 3.2
+Sessões médias: 19.5
+Número de papers: 201

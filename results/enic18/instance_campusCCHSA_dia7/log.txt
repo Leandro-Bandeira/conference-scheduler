@@ -1,0 +1,2067 @@
+=== Rodando para /imports/leandrobandeira/Documents/opt/ENIC/cse/heuristica/instances_enic/enic18/instance_campusCCHSA_dia7.txt e /imports/leandrobandeira/Documents/opt/ENIC/cse/heuristica/instances_enic/enic18/dictionary_campusCCHSA_dia7.txt ===
+
+Execução #1...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+bestIteratonSolution: 994719
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994509
+CBC solving...
+CBC viable
+bestIteratonSolution: 994271
+CBC solving...
+CBC viable
+bestIteratonSolution: 994449
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC viable
+bestIteratonSolution: 994161
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994517
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994205
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994449
+CBC solving...
+CBC viable
+bestIteratonSolution: 994345
+CBC solving...
+CBC viable
+bestIteratonSolution: 994131
+CBC solving...
+CBC viable
+bestIteratonSolution: 994215
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994141
+CBC solving...
+CBC viable
+bestIteratonSolution: 994011
+CBC solving...
+CBC viable
+bestIteratonSolution: 994295
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.00189984
+tempo de busca local: 10.7404
+tempo de perturbação: 0.0633432
+tempo de checador: 0.120908
+bestSolution: 994719
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+0: 120360, papers: 12 13 14 15 16 17 18 19 20 46 47 124 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 6 7 27 28 29 30 31 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 160620, papers: 5 10 11 21 22 23 26 37 38 39 40 41 42 
+cluster professors: 7
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 80184, papers: 45 48 49 50 54 55 56 57 58 65 89 90 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 59 60 61 62 63 64 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 60720, papers: 0 1 2 3 4 8 9 24 25 43 44 52 53 
+cluster professors: 7
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 30123, papers: 73 74 75 77 78 79 80 81 82 83 
+cluster professors: 7
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 10002, papers: 84 85 86 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 6 
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 1
+8: 80470, papers: 97 98 99 100 101 102 103 104 105 106 107 
+cluster professors: 5
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 150630, papers: 87 88 91 92 93 94 95 96 108 109 110 111 112 
+cluster professors: 5
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 9980, papers: 76 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 1
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 2.46491
+ILS result: 994719
+>>> Total: 994719
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 12
+Número de papers: 125
+
+Execução #2...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994251
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestSolution feasible: 994254
+bestIteratonSolution: 994254
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994346
+CBC solving...
+CBC viable
+bestIteratonSolution: 994175
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994427
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994179
+CBC solving...
+CBC viable
+bestIteratonSolution: 994449
+CBC solving...
+CBC viable
+bestIteratonSolution: 994241
+CBC solving...
+CBC viable
+bestIteratonSolution: 994241
+CBC solving...
+CBC viable
+bestSolution feasible: 994557
+bestIteratonSolution: 994557
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC viable
+bestIteratonSolution: 994279
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994920
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994254
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994517
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994128
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.00197047
+tempo de busca local: 11.8215
+tempo de perturbação: 0.071222
+tempo de checador: 0.115962
+bestSolution: 994557
+CBC solving...
+CBC viable
+bestSolution feasible: 994557
+0: 120360, papers: 12 13 14 15 16 17 18 19 20 46 47 124 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 24 25 27 28 29 30 31 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 180600, papers: 6 7 8 9 21 37 38 39 40 41 42 43 44 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 40110, papers: 54 55 56 57 58 60 
+cluster professors: 3
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 59 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 80292, papers: 45 48 49 50 89 90 91 92 93 94 95 96 
+cluster professors: 6
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 40155, papers: 73 74 75 77 78 79 80 81 82 83 84 85 86 
+cluster professors: 9
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 9980, papers: 76 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 1
+8: 90690, papers: 87 88 97 98 99 100 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 100000, papers: 108 109 110 111 112 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 11 263 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 2
+10: 40740, papers: 0 1 2 3 4 5 10 11 22 23 26 52 53 
+cluster professors: 9
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 3.5158
+ILS result: 994557
+>>> Total: 994557
+
+Sucesso. Saltos: 0, Extras: 3, Sessoes: 12
+
+Execução #3...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestSolution feasible: 994593
+bestIteratonSolution: 994593
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994259
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestSolution feasible: 994649
+bestIteratonSolution: 994649
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994586
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994449
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994218
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994254
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994425
+CBC solving...
+CBC viable
+bestIteratonSolution: 994257
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994219
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994593
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+bestIteratonSolution: 994719
+CBC solving...
+CBC viable
+bestIteratonSolution: 994449
+tempo de geraçao de solução inicial: 0.00191966
+tempo de busca local: 13.2693
+tempo de perturbação: 0.0726812
+tempo de checador: 0.115058
+bestSolution: 994719
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+0: 100680, papers: 0 8 9 12 13 14 15 16 17 18 21 46 47 
+cluster professors: 6
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 23 24 25 27 28 32 33 34 35 36 51 52 53 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 170610, papers: 1 2 5 22 31 37 38 39 40 41 42 43 44 
+cluster professors: 6
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70164, papers: 45 48 49 50 54 55 56 57 58 60 
+cluster professors: 5
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 59 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 140410, papers: 87 88 91 92 93 96 108 109 110 111 112 
+cluster professors: 4
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 40143, papers: 73 74 75 77 78 79 80 81 82 83 85 86 
+cluster professors: 8
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 9980, papers: 84 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 6 
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 1
+8: 90690, papers: 89 90 97 98 99 100 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 10002, papers: 76 94 95 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 1
+10: 70410, papers: 3 4 6 7 10 11 19 20 26 29 30 124 
+cluster professors: 6
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 2.82415
+ILS result: 994719
+>>> Total: 994719
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 12
+
+Execução #4...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994277
+bestIteratonSolution: 994277
+CBC solving...
+CBC viable
+bestSolution feasible: 994349
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994096
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994379
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994545
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestSolution feasible: 994689
+bestIteratonSolution: 994689
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994920
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994246
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+bestIteratonSolution: 994719
+CBC solving...
+CBC viable
+bestIteratonSolution: 994119
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994307
+CBC solving...
+CBC viable
+bestIteratonSolution: 994361
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.00192991
+tempo de busca local: 11.6147
+tempo de perturbação: 0.0649871
+tempo de checador: 0.117245
+bestSolution: 994719
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+0: 120460, papers: 12 13 14 15 16 17 18 19 20 26 46 47 124 
+cluster professors: 5
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 8 9 23 24 25 29 30 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 170610, papers: 0 1 2 5 6 7 21 37 38 39 40 41 42 
+cluster professors: 6
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70164, papers: 45 48 49 50 54 55 56 57 58 59 
+cluster professors: 5
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 60 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 150630, papers: 87 88 91 92 93 94 95 96 108 109 110 111 112 
+cluster professors: 5
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 40143, papers: 73 74 75 77 78 79 80 81 82 83 85 86 
+cluster professors: 8
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 9980, papers: 84 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 6 
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 1
+8: 90690, papers: 89 90 97 98 99 100 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 10002, papers: 3 4 76 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 1
+10: 40410, papers: 10 11 22 27 28 31 43 44 52 53 
+cluster professors: 6
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 1.7406
+ILS result: 994719
+>>> Total: 994719
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 12
+
+Execução #5...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994227
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994183
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994213
+CBC solving...
+CBC viable
+bestIteratonSolution: 994195
+CBC solving...
+CBC viable
+bestIteratonSolution: 994509
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994493
+CBC solving...
+CBC viable
+bestIteratonSolution: 994241
+CBC solving...
+CBC viable
+bestIteratonSolution: 994405
+CBC solving...
+CBC viable
+bestIteratonSolution: 994517
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994314
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994119
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994374
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.00191714
+tempo de busca local: 12.5161
+tempo de perturbação: 0.0779436
+tempo de checador: 0.116721
+bestSolution: 994549
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+0: 120360, papers: 12 13 14 15 16 17 18 19 20 46 47 124 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 24 25 27 28 29 30 31 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 180600, papers: 3 4 5 10 11 37 38 39 40 41 42 43 44 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70164, papers: 45 48 49 50 54 55 56 57 58 68 
+cluster professors: 5
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 59 60 61 62 63 64 65 66 67 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 50230, papers: 87 88 91 92 93 94 95 96 
+cluster professors: 4
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 40155, papers: 73 74 75 77 78 79 80 81 82 83 84 85 86 
+cluster professors: 9
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 40740, papers: 0 1 2 6 7 8 9 21 22 23 26 52 53 
+cluster professors: 9
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 90690, papers: 89 90 97 98 99 100 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 100000, papers: 108 109 110 111 112 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 26 266 
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 2
+10: 9980, papers: 76 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 11 
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 1
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 3.13618
+ILS result: 994549
+>>> Total: 994549
+
+Sucesso. Saltos: 0, Extras: 3, Sessoes: 12
+
+Execução #6...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+bestIteratonSolution: 994719
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994493
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994215
+CBC solving...
+CBC viable
+bestIteratonSolution: 994369
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994517
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994309
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994177
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994586
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+tempo de geraçao de solução inicial: 0.00188339
+tempo de busca local: 11.307
+tempo de perturbação: 0.0716783
+tempo de checador: 0.11893
+bestSolution: 994719
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+0: 120360, papers: 12 13 14 15 16 17 18 19 20 46 47 124 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 90690, papers: 5 6 7 10 11 21 31 32 33 34 35 36 51 
+cluster professors: 7
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 180600, papers: 0 24 25 27 28 37 38 39 40 41 42 43 44 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70164, papers: 45 48 49 50 54 55 56 57 58 59 
+cluster professors: 5
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 60 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 10002, papers: 76 89 90 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 1
+6: 50730, papers: 1 2 3 4 8 9 22 23 26 29 30 52 53 
+cluster professors: 8
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 40143, papers: 73 74 75 77 78 79 80 81 82 83 85 86 
+cluster professors: 8
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 90690, papers: 87 88 96 97 98 99 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 140410, papers: 91 92 93 94 95 100 108 109 110 111 112 
+cluster professors: 4
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 9980, papers: 84 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 6 
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 1
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 2.77121
+ILS result: 994719
+>>> Total: 994719
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 12
+
+Execução #7...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994517
+bestIteratonSolution: 994517
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994281
+CBC solving...
+CBC viable
+bestIteratonSolution: 994331
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994254
+CBC solving...
+CBC viable
+bestSolution feasible: 994557
+bestIteratonSolution: 994557
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994237
+CBC solving...
+CBC viable
+bestIteratonSolution: 994209
+CBC solving...
+CBC viable
+bestSolution feasible: 994649
+bestIteratonSolution: 994649
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994649
+CBC solving...
+CBC viable
+bestIteratonSolution: 994449
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994191
+CBC solving...
+CBC viable
+bestIteratonSolution: 994213
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994649
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+bestIteratonSolution: 994719
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+tempo de geraçao de solução inicial: 0.00193761
+tempo de busca local: 12.4946
+tempo de perturbação: 0.0667148
+tempo de checador: 0.117998
+bestSolution: 994719
+CBC solving...
+CBC viable
+bestSolution feasible: 994719
+0: 120360, papers: 12 13 14 15 16 17 18 19 20 46 47 124 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 90690, papers: 0 10 11 26 29 30 31 32 33 34 35 36 51 
+cluster professors: 7
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 180600, papers: 3 4 6 7 23 24 25 37 38 39 40 41 42 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70164, papers: 45 48 49 50 54 55 56 57 58 65 
+cluster professors: 5
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 59 60 61 62 63 64 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 10002, papers: 76 89 90 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 1
+6: 40143, papers: 73 74 75 77 78 79 80 81 82 83 85 86 
+cluster professors: 8
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 50730, papers: 1 2 5 8 9 21 22 27 28 43 44 52 53 
+cluster professors: 8
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 90690, papers: 94 95 97 98 99 100 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 140410, papers: 87 88 91 92 93 96 108 109 110 111 112 
+cluster professors: 4
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 9980, papers: 84 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 6 
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 1
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 2.33221
+ILS result: 994719
+>>> Total: 994719
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 12
+
+Execução #8...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC inviable
+bestIteratonSolution: 994164
+CBC solving...
+CBC viable
+bestSolution feasible: 994493
+bestIteratonSolution: 994493
+CBC solving...
+CBC viable
+bestIteratonSolution: 994493
+CBC solving...
+CBC viable
+bestSolution feasible: 994912
+bestIteratonSolution: 994912
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994193
+CBC solving...
+CBC viable
+bestIteratonSolution: 994215
+CBC solving...
+CBC viable
+bestIteratonSolution: 994649
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994529
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994296
+CBC solving...
+CBC viable
+bestIteratonSolution: 994719
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994237
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994195
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994272
+CBC solving...
+CBC viable
+bestIteratonSolution: 994241
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.00188204
+tempo de busca local: 12.2724
+tempo de perturbação: 0.0823278
+tempo de checador: 0.118665
+bestSolution: 994912
+CBC solving...
+CBC viable
+bestSolution feasible: 994912
+0: 100380, papers: 3 4 14 15 16 17 18 19 20 23 46 124 
+cluster professors: 5
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 24 25 27 28 29 30 31 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 200580, papers: 6 7 12 13 37 38 39 40 41 42 43 44 47 
+cluster professors: 4
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70174, papers: 45 48 49 50 54 55 56 57 58 60 76 
+cluster professors: 6
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 59 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 90690, papers: 87 88 89 90 91 92 93 94 95 100 103 104 105 
+cluster professors: 6
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 0
+6: 20082, papers: 77 78 79 80 81 82 83 
+cluster professors: 5
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 9980, papers: 84 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 6 
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 1
+8: 40740, papers: 0 1 2 5 8 9 10 11 21 22 26 52 53 
+cluster professors: 9
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 150630, papers: 96 97 98 99 101 102 106 107 108 109 110 111 112 
+cluster professors: 5
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 20026, papers: 73 74 75 85 86 
+cluster professors: 3
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 0
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 2.82023
+ILS result: 994912
+>>> Total: 994912
+
+Sucesso. Saltos: 0, Extras: 1, Sessoes: 12
+
+Execução #9...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994649
+bestIteratonSolution: 994649
+CBC solving...
+CBC viable
+bestIteratonSolution: 994391
+CBC solving...
+CBC viable
+bestIteratonSolution: 994215
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC viable
+bestIteratonSolution: 994331
+CBC solving...
+CBC viable
+bestIteratonSolution: 994279
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994177
+CBC solving...
+CBC viable
+bestIteratonSolution: 994314
+CBC solving...
+CBC viable
+bestIteratonSolution: 994193
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994111
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994349
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.00187964
+tempo de busca local: 11.1778
+tempo de perturbação: 0.0657471
+tempo de checador: 0.121435
+bestSolution: 994649
+CBC solving...
+CBC viable
+bestSolution feasible: 994649
+0: 100380, papers: 1 2 14 15 16 17 18 19 20 23 46 124 
+cluster professors: 5
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 8 9 10 11 24 25 31 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 170610, papers: 0 3 4 21 22 37 38 39 40 41 42 43 44 
+cluster professors: 6
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 70164, papers: 45 48 49 50 54 55 56 57 58 59 
+cluster professors: 5
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 60 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 9980, papers: 76 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 1
+6: 40155, papers: 73 74 75 77 78 79 80 81 82 83 84 85 86 
+cluster professors: 9
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 70710, papers: 5 6 7 12 13 26 27 28 29 30 47 52 53 
+cluster professors: 7
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 90690, papers: 94 95 96 97 98 99 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 120330, papers: 87 88 89 90 100 108 109 110 111 112 
+cluster professors: 4
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 30000, papers: 91 92 93 
+cluster professors: 1
+achou o professor
+achou o professor
+Extra professors needed: 2
+Professors id: 11 263 
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 2
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 3.97546
+ILS result: 994649
+>>> Total: 994649
+
+Sucesso. Saltos: 0, Extras: 3, Sessoes: 12
+
+Execução #10...
+  Tentativa 1...
+Papers: 125
+Topics: 18
+Sessions: 12
+{id: 0, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 1, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 2, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 3, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 4, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 5, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 6, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 7, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 8, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 9, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 10, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+{id: 11, numPapers: 13, presTime: 20, dateTime: 7/11/2016 14:0}
+Num Slots: 156
+Precomputing papers benefits...
+Using OrTools Checker
+Starting ILS...
+CBC solving...
+CBC viable
+bestSolution feasible: 994549
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994409
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994369
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994246
+CBC solving...
+CBC viable
+bestIteratonSolution: 994264
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestSolution feasible: 994555
+bestIteratonSolution: 994555
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994170
+CBC solving...
+CBC viable
+bestSolution feasible: 994925
+bestIteratonSolution: 994925
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994319
+CBC solving...
+CBC viable
+bestIteratonSolution: 994251
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994429
+CBC solving...
+CBC viable
+bestIteratonSolution: 994374
+CBC solving...
+CBC viable
+bestIteratonSolution: 994249
+CBC solving...
+CBC viable
+bestIteratonSolution: 994227
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+CBC solving...
+CBC viable
+bestIteratonSolution: 994215
+CBC solving...
+CBC viable
+bestIteratonSolution: 994549
+tempo de geraçao de solução inicial: 0.001889
+tempo de busca local: 13.0201
+tempo de perturbação: 0.0703843
+tempo de checador: 0.120411
+bestSolution: 994925
+CBC solving...
+CBC viable
+bestSolution feasible: 994925
+0: 120360, papers: 12 13 14 15 16 17 18 19 20 46 47 124 
+cluster professors: 4
+sucess
+Cluster index: 1
+FO professors model: 0
+Extra professors needed: 0
+1: 100680, papers: 0 24 25 27 28 29 30 32 33 34 35 36 51 
+cluster professors: 6
+sucess
+Cluster index: 2
+FO professors model: 0
+Extra professors needed: 0
+2: 180600, papers: 1 2 6 7 23 37 38 39 40 41 42 43 44 
+cluster professors: 5
+sucess
+Cluster index: 3
+FO professors model: 0
+Extra professors needed: 0
+3: 40110, papers: 54 55 56 57 58 59 
+cluster professors: 3
+sucess
+Cluster index: 4
+FO professors model: 0
+Extra professors needed: 0
+4: 90690, papers: 60 61 62 63 64 65 66 67 68 69 70 71 72 
+cluster professors: 7
+sucess
+Cluster index: 5
+FO professors model: 0
+Extra professors needed: 0
+5: 30030, papers: 45 48 49 50 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 266 
+sucess
+Cluster index: 6
+FO professors model: 0
+Extra professors needed: 1
+6: 40155, papers: 73 74 75 77 78 79 80 81 82 83 84 85 86 
+cluster professors: 9
+sucess
+Cluster index: 7
+FO professors model: 0
+Extra professors needed: 0
+7: 40740, papers: 3 4 5 8 9 10 11 21 22 26 31 52 53 
+cluster professors: 9
+sucess
+Cluster index: 8
+FO professors model: 0
+Extra professors needed: 0
+8: 90690, papers: 89 90 96 97 98 99 101 102 103 104 105 106 107 
+cluster professors: 6
+sucess
+Cluster index: 9
+FO professors model: 0
+Extra professors needed: 0
+9: 150630, papers: 87 88 91 92 93 94 95 100 108 109 110 111 112 
+cluster professors: 5
+sucess
+Cluster index: 10
+FO professors model: 0
+Extra professors needed: 0
+10: 9980, papers: 76 113 114 
+cluster professors: 2
+achou o professor
+Extra professors needed: 1
+Professors id: 11 
+sucess
+Cluster index: 11
+FO professors model: 0
+Extra professors needed: 1
+11: 100260, papers: 115 116 117 118 119 120 121 122 123 
+cluster professors: 3
+sucess
+Cluster index: 12
+FO professors model: 0
+Extra professors needed: 0
+tempo de escalonamento: 4.21187
+ILS result: 994925
+>>> Total: 994925
+
+Sucesso. Saltos: 0, Extras: 2, Sessoes: 12
+
+=== Resultado médio ===
+Salto médio: 0.0
+Extra médio: 2.2
+Sessões médias: 12.0
+Número de papers: 125

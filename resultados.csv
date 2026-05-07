@@ -1,0 +1,14 @@
+folder,instance,dictionary,num_papers,mean_saltos,mean_extras,mean_sessoes
+enic17,instance_campusCCS_dia24.txt,dictionary_campusCCS_dia24.txt,348,0.0,2.8,30.3
+enic17,instance_campusCCTA_dia25.txt,dictionary_campusCCTA_dia25.txt,201,0.0,3.2,19.5
+enic17,instance_campusCTDR_dia26.txt,dictionary_campusCTDR_dia26.txt,54,0.0,2.0,6.0
+enic17,instance_campusCT_dia27.txt,dictionary_campusCT_dia27.txt,200,0.0,2.4,18.7
+enic18,instance_campusCCAE_dia17.txt,dictionary_campusCCAE_dia17.txt,57,0.0,0.0,6.0
+enic18,instance_campusCCEN_dia17.txt,dictionary_campusCCEN_dia17.txt,211,0.3,1.9,20.0
+enic18,instance_campusCCHSA_dia7.txt,dictionary_campusCCHSA_dia7.txt,125,0.0,2.2,12.0
+enic18,instance_campusCCHSA_dia8.txt,dictionary_campusCCHSA_dia8.txt,74,0.1,0.9,8.0
+enic18,instance_campusCCSA_dia15.txt,dictionary_campusCCSA_dia15.txt,91,0.8,1.6,8.9
+enic18,instance_campusCCS_dia16.txt,dictionary_campusCCS_dia16.txt,414,0.0,7.3,36.8
+enic18,instance_campusCCTA_dia18.txt,dictionary_campusCCTA_dia18.txt,218,0.0,1.8,19.0
+enic18,instance_campusCTDR_dia15.txt,dictionary_campusCTDR_dia15.txt,60,0.2,0.2,6.0
+enic18,instance_campusCT_dia19.txt,dictionary_campusCT_dia19.txt,197,0.0,1.9,19.2
