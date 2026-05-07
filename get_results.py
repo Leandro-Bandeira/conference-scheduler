@@ -107,8 +107,7 @@ with open(csv_output, mode="w", newline='') as csvfile:
                             result = subprocess.run(
                                 [executable, instance_path, output_json_path, dictionary_path],
                                 capture_output=True,
-                                text=True,
-                                timeout=300
+                                text=True
                             )
 
                             output = result.stdout
@@ -143,10 +142,6 @@ with open(csv_output, mode="w", newline='') as csvfile:
 
                             break
 
-                        except subprocess.TimeoutExpired:
-                            log_file.write("Erro: O processo excedeu o tempo limite de execução (300s).\n")
-                            log_file.flush()
-                            time.sleep(1)
                         except FileNotFoundError:
                             log_file.write(f"Erro: O arquivo de saída JSON não foi criado/encontrado: {output_json_path}\n")
                             log_file.flush()
